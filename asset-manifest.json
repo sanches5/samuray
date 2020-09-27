@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sanches5/samuray.git/static/css/main.687ba19e.chunk.css",
+    "main.js": "/sanches5/samuray.git/static/js/main.af459fd5.chunk.js",
+    "main.js.map": "/sanches5/samuray.git/static/js/main.af459fd5.chunk.js.map",
+    "runtime-main.js": "/sanches5/samuray.git/static/js/runtime-main.1ef3d219.js",
+    "runtime-main.js.map": "/sanches5/samuray.git/static/js/runtime-main.1ef3d219.js.map",
+    "static/js/2.813af384.chunk.js": "/sanches5/samuray.git/static/js/2.813af384.chunk.js",
+    "static/js/2.813af384.chunk.js.map": "/sanches5/samuray.git/static/js/2.813af384.chunk.js.map",
+    "static/css/3.f1c29e57.chunk.css": "/sanches5/samuray.git/static/css/3.f1c29e57.chunk.css",
+    "static/js/3.21426f4c.chunk.js": "/sanches5/samuray.git/static/js/3.21426f4c.chunk.js",
+    "static/js/3.21426f4c.chunk.js.map": "/sanches5/samuray.git/static/js/3.21426f4c.chunk.js.map",
+    "static/js/4.902fb075.chunk.js": "/sanches5/samuray.git/static/js/4.902fb075.chunk.js",
+    "static/js/4.902fb075.chunk.js.map": "/sanches5/samuray.git/static/js/4.902fb075.chunk.js.map",
+    "static/js/5.d7449937.chunk.js": "/sanches5/samuray.git/static/js/5.d7449937.chunk.js",
+    "static/js/5.d7449937.chunk.js.map": "/sanches5/samuray.git/static/js/5.d7449937.chunk.js.map",
+    "static/js/6.dda6d16a.chunk.js": "/sanches5/samuray.git/static/js/6.dda6d16a.chunk.js",
+    "static/js/6.dda6d16a.chunk.js.map": "/sanches5/samuray.git/static/js/6.dda6d16a.chunk.js.map",
+    "static/js/7.ec08db01.chunk.js": "/sanches5/samuray.git/static/js/7.ec08db01.chunk.js",
+    "static/js/7.ec08db01.chunk.js.map": "/sanches5/samuray.git/static/js/7.ec08db01.chunk.js.map",
+    "index.html": "/sanches5/samuray.git/index.html",
+    "precache-manifest.d1a12ef961443d75674b0a1c11181783.js": "/sanches5/samuray.git/precache-manifest.d1a12ef961443d75674b0a1c11181783.js",
+    "service-worker.js": "/sanches5/samuray.git/service-worker.js",
+    "static/css/3.f1c29e57.chunk.css.map": "/sanches5/samuray.git/static/css/3.f1c29e57.chunk.css.map",
+    "static/css/main.687ba19e.chunk.css.map": "/sanches5/samuray.git/static/css/main.687ba19e.chunk.css.map",
+    "static/js/2.813af384.chunk.js.LICENSE.txt": "/sanches5/samuray.git/static/js/2.813af384.chunk.js.LICENSE.txt",
+    "static/media/805.gif": "/sanches5/samuray.git/static/media/805.bb656658.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ef3d219.js",
+    "static/js/2.813af384.chunk.js",
+    "static/css/main.687ba19e.chunk.css",
+    "static/js/main.af459fd5.chunk.js"
+  ]
+}

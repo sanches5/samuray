@@ -1,0 +1,2 @@
+(this.webpackJsonpkamasutra=this.webpackJsonpkamasutra||[]).push([[6],{295:function(a,e,t){"use strict";t.r(e);var n=t(0),s=t.n(n);e.default=function(){return s.a.createElement("div",null,s.a.createElement("h1",null,"News Moscow"))}}}]);
+//# sourceMappingURL=6.dda6d16a.chunk.js.map

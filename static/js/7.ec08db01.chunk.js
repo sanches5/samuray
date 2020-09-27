@@ -1,0 +1,2 @@
+(this.webpackJsonpkamasutra=this.webpackJsonpkamasutra||[]).push([[7],{297:function(t,a,e){"use strict";e.r(a);var n=e(0),u=e.n(n);a.default=function(t){return u.a.createElement("div",null,u.a.createElement("h1",null,"Seting"))}}}]);
+//# sourceMappingURL=7.ec08db01.chunk.js.map
